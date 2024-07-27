@@ -1,2 +1,2 @@
-# E-Commerce-Website
+# Shopify-E-Commerce-Website
 online website
